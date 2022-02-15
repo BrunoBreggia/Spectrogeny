@@ -1,0 +1,17 @@
+ root -Dist.: 53800.68144526235
+	 Left -Dist.: 42210.92916350874
+		 Left -Dist.: 19792.07883942855
+			 Left -Dist.: 11430.66019115073
+				 Left - value: Mus_musculus
+				 Right - value: Crocodylus_niloticus
+			 Right -Dist.: 7722.634989656595
+				 Left -Dist.: 3711.958520954344
+					 Left - value: Pan_troglodytes
+					 Right - value: Homo_sapiens
+				 Right - value: Gallus_gallus
+		 Right -Dist.: 4454.989737002371
+			 Left - value: Oryza_sativa
+			 Right - value: Arabidopsis_thaliana
+	 Right -Dist.: 25588.763295578843
+		 Left - value: Drosophila_melanogaster
+		 Right - value: Saccharomyces_cerevisiae
